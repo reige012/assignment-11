@@ -22,7 +22,7 @@ def parser():
                         help="Enter '--input_file', space, and then" +
                         " the name of the input file.", type=str)
     parser.add_argument("--output_file", required=True,
-                        help="Enter '--input_file', space, and then" +
+                        help="Enter '--output_file', space, and then" +
                         " the name of the output file.", type=str)
     args = parser.parse_args()
     return args
