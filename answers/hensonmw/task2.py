@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 """
-My 1st program for Assignment 11
+My 2nd program for Assignment 11
 
 Created by Michael Henson on 07 March 2016.
 Copyright 2016 Michael W Henson. All rights reserved.

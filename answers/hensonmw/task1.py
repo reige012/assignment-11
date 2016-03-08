@@ -38,7 +38,12 @@ def cleanup_count(string):
         #https://docs.python.org/2/library/re.html
         '''
         this took me forever to figure out and what to use
-        since I previous got this wrong
+        since I previous got this wrong. this seems simple compared
+        to previous attempted to break apart using string
+        '''
+        '''
+        http://stackoverflow.com/questions/10134372/get-a-list-of-names-which-start-with-certain-letters
+        First answer helped tell me how to put together a list comprehension.
         '''
         my_dict = [str.lower(word) for word in list]
     return my_dict
