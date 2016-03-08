@@ -1,0 +1,17 @@
+knight	1
+kitchen	1
+kindly	1
+knowing	4
+kept	19
+killed	1
+key	1
+killing	1
+kind	5
+kinds	3
+known	6
+kingdoms	1
+keeping	2
+know	8
+king	1
+khan	1
+knowledge	2

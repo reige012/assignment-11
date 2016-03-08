@@ -1,0 +1,11 @@
+quarters	1
+quickly	1
+quick	1
+quarter	1
+question	1
+quite	16
+quarrelsome	1
+qualities	5
+quoted	1
+quote	1
+quality	2
